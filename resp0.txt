@@ -1,0 +1,14 @@
+cd Escritorio
+cd Desktop
+git clone https://github.com/vdelacarrera/ele0.git
+cd ele0
+git add *
+git commit -m "hola hola si"
+git push
+git config --global user.email "vdelacarrera@uc.cl"
+got config --global user.name "vdelacarrera"
+git config --global user.name "vdelacarrera"
+git commit -m "ultimoooo"
+git push
+git pull
+doskey/History
